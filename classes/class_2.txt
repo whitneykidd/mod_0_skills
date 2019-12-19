@@ -1,0 +1,18 @@
+Class: Wine
+
+wineType (string)
+wineColor (string)
+bottlePrice (integer)
+currentCapacity (integer)
+totalCapacity (integer)
+isOpen (boolean)
+totalBottlesSold (integer)
+
+
+
+Methods:
+
+openBottle (changes isOpen to true)
+calculatePercentFull (divides currentCapacity by totalCapacity)
+bottleSold (+1 to totalBottlesSold)
+reduceBottlePrice (-10 to bottlePrice)
