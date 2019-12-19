@@ -1,0 +1,15 @@
+Object: Manager
+
+Attributes:
+employeeName: 'Brad'
+employeeCurrentlyWorking: true
+employeeTitle: Manager
+employeeTasks: ['open store', 'close store', 'hire employees', 'fire employees']
+employeeSalary: 52000
+numberOfEmployees: 13
+
+Methods:
+employeeRaise: 10 + 52000
+clockIn: employeeCurrentlyWorking = true
+hireEmployee: 1 + 13
+fireEmployee: 13 - 1
