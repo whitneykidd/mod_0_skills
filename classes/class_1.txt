@@ -1,0 +1,15 @@
+Class: Employee
+
+employeeName (string)
+employeeCurrentlyWorking (boolean)
+employeeTitle
+employeeTasks (array)
+employeeSalary (integer)
+numberOfEmployees (integer)
+
+
+Methods:
+employeeRaise (+10 to employeeSalary)
+clockIn (changes employeeCurrentlyWorking to true)
+hireEmployee (+1 to numberOfEmployees)
+fireEmployee (-1 to numberOfEmployees)
