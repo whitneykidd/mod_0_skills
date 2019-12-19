@@ -2,7 +2,7 @@ Class: Employee
 
 employeeName (string)
 employeeCurrentlyWorking (boolean)
-employeeTitle
+employeeTitle (string)
 employeeTasks (array)
 employeeSalary (integer)
 numberOfEmployees (integer)
