@@ -1,0 +1,18 @@
+Object: Erath Oregon
+
+wineType: 'Pinot Noir'
+wineColor: 'Red'
+bottlePrice: 19
+currentCapacity: 325
+totalCapacity: 750
+isOpen: false
+totalBottlesSold: 10
+
+
+
+Methods:
+
+openBottle: isOpen = true
+calculatePercentFull: 350 / 750
+bottleSold: 10 + 1
+reduceBottlePrice: 19 - 10
